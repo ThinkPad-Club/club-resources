@@ -1,4 +1,4 @@
-# ThinkPad Club – Code Examples
+# ThinkPad Club Code Examples
 
 Welcome to the **ThinkPad Club Code Examples Repository**.
 
@@ -42,7 +42,3 @@ If you are unsure how to run an example:
 - Follow along with the original demonstration
 - Ask for help during club
 - Ask a mentor or instructor
-
----
-
-## Repository Structure
