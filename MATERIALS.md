@@ -19,6 +19,7 @@ The most important requirement is:
 ⚠️ **At least 8GB of RAM**
 
 ---
+<img width="35%" alt="image" src="https://github.com/user-attachments/assets/ab9c79dc-c349-4341-a838-34dcfbf778fa" />
 
 # Recommended Option 1  
 ## Small Kid-Friendly Laptop: ThinkPad 11e (Touchscreen)
@@ -43,6 +44,7 @@ Example places to look:
 Just make sure the computer has **8GB of RAM or more**.
 
 ---
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/4533574c-cf86-4844-b643-5bdab17f0e8d" />
 
 # Recommended Option 2  
 ## More Powerful Laptop: ThinkPad T470
@@ -80,4 +82,4 @@ These computers are **completely optional**.
 
 Students can still participate in ThinkPad Club using their **school Chromebook**.
 
-The laptops above simply make it easier to explore **certain advanced projects at home**.
+The laptops above simply make it easier to explore **certain advanced / elective projects in class or at home**.
