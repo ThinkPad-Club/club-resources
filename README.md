@@ -24,3 +24,9 @@ During ThinkPad Club we want everyone to stay focused and respectful so the codi
 8. **Use inside voices**
 9. **Do not distract other students**
 10. **No unapproved games, websites or videos**
+
+## What You Get if you Follow the Rules?
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/8cb0a736-fc55-4ccb-a055-1cddc26bf351" />
+
+<br>
+<!-- <img width="50%" alt="image" src="https://github.com/user-attachments/assets/0b076f71-a7bc-4202-8641-2b68fa3ce941" /> -->
