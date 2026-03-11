@@ -1,108 +1,15 @@
-# What We Do in ThinkPad Club 🚀
+# What We Do During Class 🛠️
+### ThinkPad Club is for Focused Work and Focused Learning
 
-Every club meeting follows the same simple plan.
+Every ThinkPad Club meeting follows a simple plan. We start by building something together in a live coding demo—maybe a game, animation, song, or fun program—and students can follow along on their own computers. It’s totally okay if you fall behind or your code breaks (that happens to everyone!). After the demo there’s help time where we can repeat steps, answer questions, and fix bugs. At the end of club, students share their projects on the class GitHub or website—finished or unfinished—just like real programmers do. Sometimes students who finish early can try special elective activities like robotics, electronics, music tools, or building games and websites. The most important thing in ThinkPad Club is to try your best, be patient, help others, and keep experimenting!
 
-Our goal is to **learn new things, try our best, and build cool projects.**
 
----
-
-# 1. Coding Demo
-
-We start with a **coding demo**.
-
-The instructor will build something step by step and explain what is happening.
-
-It might be:
-
-- a game
-- an animation
-- a song
-- a fun program
-
-Students can **follow along on their own computer**.
-
-You do **not** have to keep up perfectly.
-
-If you get stuck or something breaks, **that is okay**.
-
-You can open the **example code** from the club resources and use it to help you.
-
-The most important thing is to **try**.
-
-You **do not have to finish**.
-
----
-
-# 2. Help Time
-
-After the demo:
-
-- We may repeat the demo
-- Students can ask questions
-- The instructor can help fix problems
-- Students can keep working on their project
-
-Making mistakes is **part of learning to code**.
-
----
-
-# 3. Share Your Project
-
-At the end of club, students will **share their project**.
-
-Your project can be **finished or unfinished**.
-
-Projects may be shared on:
-
-- the **class GitHub**
-- the **class website**
-
-This is how real programmers **share their work**.
-
----
-
-# Things We May Learn
-
-We may work with things like:
-
-- building websites
-- making games
-- drawing with code
-- making music with code
-- learning Python and JavaScript
-- using AI tools
-- learning about electronics
-- building small computers and robots
-
----
-
-# 4. Elective Projects
-
-Students who finish and share their demo project may choose a **special activity**.
-
-These are small stations or kits that students can explore.
-
-Examples include:
-
-- making games
-- building websites
-- robotics
-- electronics
-- taking apart old computers
-- making electronic music
-
-These depend on **materials and good classroom behavior**.
-
----
-
-# The Most Important Rule
-
-Try your best.
-
-Be patient.
-
-Help others.
-
-All programmers learn by **trying, fixing mistakes, and trying again**.
-
-That is what ThinkPad Club is for. 💻🌻
+1. Watch the coding demo and try to follow along
+2. If you get lost or stuck refer to the code example
+3. When the demo is done you can get help and ask questions
+4. If you finish post your project to the class website
+5. Follow the class conduct rules during work time
+6. Use headphones, stay in your seat, hands to yourself, inside voices, no outside games, code code code
+7. Students that follow class conduct rules get added to **Gold Star Students** list
+8. **Gold Star Student** can choose elective projects after demos
+9. **Gold Star Student** get to select an **End of Day Prize**
